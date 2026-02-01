@@ -1,0 +1,59 @@
+{
+    "colors": {
+        "r": 75,
+        "g": 35,
+        "b": 120,
+
+        "black": "#0a0814",
+        "light_black": "#120d22",
+        "grey": "#1c1830",
+
+        "deep_purple": "#05020a",
+        "void_purple": "#030010",
+        "accent_purple": "#4b2378",
+        "soft_lavender": "#9e88c9",
+        "muted_violet": "#6b3a99",
+
+        "warning": "#b366ff",
+        "success": "#855ed1",
+        "info": "#6b7fd0"
+    },
+    "cssvars": {
+        "font_main": "United Sans Medium",
+        "font_main_light": "United Sans Light",
+        "ui_glow_color": "rgba(75,35,120,0.6)",
+        "ui_dim_color": "rgba(75,35,120,0.15)"
+    },
+    "terminal": {
+        "fontFamily": "Fira Mono",
+        "fontSize": 14,
+        "lineHeight": 1.4,
+
+        "cursorStyle": "block",
+        "foreground": "#9e88c9",
+        "background": "#0a0814",
+
+        "cursor": "#4b2378",
+        "cursorAccent": "#ffffff",
+
+        "selection": "rgba(75,35,120,0.35)",
+        "selectionInactive": "rgba(75,35,120,0.15)",
+
+        "ansiBlack": "#0a0814",
+        "ansiRed": "#b366ff",
+        "ansiGreen": "#855ed1",
+        "ansiYellow": "#9b7fd0",
+        "ansiBlue": "#6b7fd0",
+        "ansiMagenta": "#4b2378",
+        "ansiCyan": "#7a6dcf",
+        "ansiWhite": "#cfc2e8"
+    },
+    "globe": {
+        "base": "#030010",
+        "marker": "#4b2378",
+        "pin": "#9e88c9",
+        "satellite": "#6b3a99",
+        "orbit": "#1a1029",
+        "glow": "rgba(75,35,120,0.5)"
+    }
+}
