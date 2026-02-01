@@ -36,4 +36,4 @@ A deep, moody, and immersive theme for [EDEX UI](https://github.com/GitSquared/e
 
 ---
 
-[demo](E_DEX_UI_Demo.png)
+![Russian Violet Theme Preview](E_DEX_UI_Demo.png)
